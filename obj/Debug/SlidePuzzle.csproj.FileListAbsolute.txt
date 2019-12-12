@@ -1,0 +1,17 @@
+D:\visualproject\SlidePuzzle\bin\Debug\SlidePuzzle.exe.config
+D:\visualproject\SlidePuzzle\bin\Debug\SlidePuzzle.exe
+D:\visualproject\SlidePuzzle\bin\Debug\SlidePuzzle.pdb
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.csprojAssemblyReference.cache
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.Properties.Resources.resources
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.csproj.GenerateResource.cache
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.csproj.CoreCompileInputs.cache
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.exe
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.pdb
+D:\visualproject\SlidePuzzle\bin\Debug\MetroFramework.Design.dll
+D:\visualproject\SlidePuzzle\bin\Debug\MetroFramework.dll
+D:\visualproject\SlidePuzzle\bin\Debug\MetroFramework.Fonts.dll
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.csproj.CopyComplete
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.Form_33.resources
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.Form_44.resources
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.Form_55.resources
+D:\visualproject\SlidePuzzle\obj\Debug\SlidePuzzle.Form_Main.resources

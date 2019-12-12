@@ -1,0 +1,10 @@
+D:\visualproject\SlidePuzzle\bin\Release\SlidePuzzle.exe.config
+D:\visualproject\SlidePuzzle\bin\Release\SlidePuzzle.exe
+D:\visualproject\SlidePuzzle\bin\Release\SlidePuzzle.pdb
+D:\visualproject\SlidePuzzle\obj\Release\SlidePuzzle.Form1.resources
+D:\visualproject\SlidePuzzle\obj\Release\SlidePuzzle.Properties.Resources.resources
+D:\visualproject\SlidePuzzle\obj\Release\SlidePuzzle.csproj.GenerateResource.cache
+D:\visualproject\SlidePuzzle\obj\Release\SlidePuzzle.csproj.CoreCompileInputs.cache
+D:\visualproject\SlidePuzzle\obj\Release\SlidePuzzle.exe
+D:\visualproject\SlidePuzzle\obj\Release\SlidePuzzle.pdb
+D:\visualproject\SlidePuzzle\obj\Release\SlidePuzzle.csprojAssemblyReference.cache
